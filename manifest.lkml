@@ -5,8 +5,8 @@ application: carbon-offset-extension {
     local_storage: no
     navigation: no
     new_window: no
-    allow_forms: no
-    allow_same_origin: no
+    allow_forms: yes
+    allow_same_origin: yes
     core_api_methods: ["all_looks", "run_look"]
     external_api_urls: []
     oauth2_urls: []
